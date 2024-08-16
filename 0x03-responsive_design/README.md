@@ -1,0 +1,2 @@
+ALX SE SHORT SPECIFICATION
+0x03. Responsive design
