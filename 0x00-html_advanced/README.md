@@ -1,2 +1,2 @@
 ## 0x00. Advanced HTML
-Use HTML tags to structure a web page. No CSS, no styling
+Using HTML tags to structure a web page. with no CSS, no styling
